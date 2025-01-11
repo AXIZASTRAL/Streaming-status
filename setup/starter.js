@@ -1,8 +1,8 @@
 module.exports = {
     // Array of authentication tokens
     tk: [
-        "ODc0ODk4NDIyMjMzMTc4MTQy.",   // Token 1
-        "MTE5MTM4NDQ3MzM4MDU4OTYwOA"   // Token 2 (Can be deleted if not needed)
+        "MTMyNzQzODAzOTUwODg0NDYwNQ.GjWh1J.vXD0QkbkolNO15egQO5gTb-UIqqTVXarRf58-E",   // Token 1
+           // Token 2 (Can be deleted if not needed)
     ],
 
     // Import additional configuration from 'config.json'
